@@ -26,7 +26,7 @@ The goal of this project was to learn how to build and deploy a simple ML pipeli
 
 
 
-⚙️ Workflow:
+- ⚙️ Workflow:
 
 
 
@@ -40,7 +40,7 @@ Used AI-assisted(Gemini API) labeling to categorize data.
 
 
 
-Model Training:
+- Model Training:
 
 
 
@@ -52,7 +52,7 @@ Trained with dataset, tuned hyperparameters.
 
 
 
-Testing:
+- Testing:
 
 
 
@@ -62,7 +62,7 @@ Achieved ~90% accuracy on validation/test split.
 
 
 
-🚀 Key Learnings:
+- 🚀 Key Learnings:
 
 
 
@@ -74,7 +74,7 @@ Understanding of transfer learning for image classification.
 
 
 
-📌 Next Steps:
+- 📌 Next Steps:
 
 
 
@@ -89,5 +89,6 @@ Experiment with model optimizations for real-world use cases.
 📜 License
 
 This project is for educational purposes.
+
 
 
