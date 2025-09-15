@@ -29,7 +29,6 @@ The dataset contains images captured with the **Arduino Nano 33 BLE Sense**:
 
 ## Workflow Diagram
 
-```mermaid
 flowchart TD
     A[Capture Images] --> B[Upload to Edge Impulse]
     B --> C[Label Dataset]
@@ -37,12 +36,12 @@ flowchart TD
     D --> E[Deploy to Arduino Nano 33 BLE Sense]
     E --> F[Run Inference / Classification]
 
-Dependencies / Setup
+## Dependencies / Setup
 Hardware
 Arduino Nano 33 BLE Sense
 USB cable for connection to PC
 
-Software
+## Software
 Node.js (latest stable recommended)
 Visual Studio Code with C++ development tools
 Arduino IDE / Arduino CLI
@@ -50,3 +49,4 @@ Edge Impulse CLI (npm install -g edge-impulse-cli)
 Libraries
 ArduinoBLE
 Edge Impulse Arduino library
+
